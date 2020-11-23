@@ -15,20 +15,20 @@ Stellar makes it possible to create, send, and trade digital representations of 
 * Quick Summaries
   * [Learn how Stellar unites the world’s financial infrastructure.](https://www.stellar.org/overview)
   * [The Power of Stellar](https://www.stellar.org/learn/the-power-of-stellar) 
-  * [Lumenauts - What is Stellar?](https://youtu.be/ixerXWJrDr0)
+  * [Lumenauts - What is Stellar?](https://youtu.be/lNcil-1GmCc)
   * [Lumenauts - Educational Twitter Moment](https://twitter.com/i/moments/1096909111734747138) 
   * [Coinbase Earn - What is Stellar?](https://www.coinbase.com/earn/stellar/lesson/1)
   * [A Primer on the Stellar Network](https://snarky.ca/a-primer-on-stellar/)
 * Intro to Stellar Assets & Anchors
   * [What are Stellar Lumens?](https://www.stellar.org/lumens) 
-  * [Stellar Assets and Anchors](https://youtu.be/Cf9CdFVse-w) 
+  * [Stellar Assets and Anchors](https://youtu.be/9iN9XT1rHHA) 
   * [How banks, businesses, and people use Stellar](https://www.coinbase.com/earn/stellar/lesson/4)
 * Intro to the Stellar Decentralized Exchange
-  * [How the Stellar Decentralized Exchange \(DEX\) Works](https://youtu.be/2L8-lrmzeWk)
+  * [How the Stellar Decentralized Exchange \(DEX\) Works](https://youtu.be/YFca255hXj8)
   * [How to Buy and Sell on the Stellar Decentralized Exchange](https://www.lumenauts.com/guides/how-to-buy-and-sell-on-the-stellar-decentralized-exchange)
 * Intro to the Stellar Consensus Protocol
   * [How does Stellar protect digital assets?](https://www.coinbase.com/earn/stellar/lesson/5)
-  * [How the Stellar Consensus Protocol \(Federated Byzantine Agreement\) Works](https://youtu.be/X3Gj2nQZCNM)
+  * [How the Stellar Consensus Protocol \(Federated Byzantine Agreement\) Works](https://youtu.be/aU08km2xrz0)
 
 ### 📺 Official Channels
 
