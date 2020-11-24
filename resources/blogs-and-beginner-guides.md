@@ -15,7 +15,7 @@
 * [How Changes are Made to the Stellar Network](https://medium.com/stellar-community/how-changes-are-made-to-the-stellar-network-760abbb8d127)
 * [How to Stay Safe on Stellar](https://www.lumenauts.com/blog/how-to-stay-safe-on-stellar)
 * [Anatomy of a Stellar Scam](https://medium.com/@stellarguard/anatomy-of-a-stellar-scam-the-hard-fork-4ac89808fd38)
-* [How to Set Up a Mult-Sig Wallet](https://www.lumenauts.com/guides/how-to-set-up-a-multi-sig-wallet)
+* [How to Set Up a Multi-Sig Wallet](https://www.lumenauts.com/guides/how-to-set-up-a-multi-sig-wallet)
 * [Stellar - What's in your wallet?](https://medium.com/@stellarguard/stellar-whats-in-your-wallet-1b07b8f7123a)
 * [How to Use Lumens on the Ledger Nano S](https://www.lumenauts.com/guides/how-to-use-lumens-on-the-ledger-nano-s)
 * [How could Kelp bot help Stellar?](https://medium.com/stellar-community/how-could-kelp-bot-help-stellar-ba9bec513041)
