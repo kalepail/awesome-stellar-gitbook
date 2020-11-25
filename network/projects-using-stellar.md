@@ -15,7 +15,6 @@
 * [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
 * [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company. It offers online, offline and crypto remittances to nearly 100 countries.
 * [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar.
-* [COINQVEST](https://www.coinqvest.com) - Enterprise Cryptocurrency Payment Processing on Stellar. Accept digital currencies, settle in USD, EUR, NGN.
 * [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system.
 * [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company.
 * [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
