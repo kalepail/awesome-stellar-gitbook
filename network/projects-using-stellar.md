@@ -15,7 +15,7 @@
 * [DealBox](https://dlbx.io/) - A feature-rich digital securities issuance and investment platform connecting entrepreneurs and investors to enable the future of investing and capital formation.
 * [Tempo](https://tempo.eu.com/en) - Tempo is an international money transfer, money and crypto exchange company. It offers online, offline and crypto remittances to nearly 100 countries.
 * [Wirex](https://wirexapp.com/business/stellar-partnership) - A U.K.-based payments platform and issuer of stablecoins on Stellar.
-* [COINQVEST](https://www.coinqvest.com) - Enterprise Cryptocurrrency Payment Processing on Stellar. Accept digital currencies, settle in USD, EUR, NGN.
+* [COINQVEST](https://www.coinqvest.com) - Enterprise Cryptocurrency Payment Processing on Stellar. Accept digital currencies, settle in USD, EUR, NGN.
 * [Velo](https://velo.org) - Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system.
 * [SureRemit](https://sureremit.co/) - Nigeria-based global non-cash remittances company.
 * [Bitbond](https://www.bitbond.com/) - Bitbond is the issuer of Germany's first security token and makes business lending globally accessible.
@@ -28,6 +28,8 @@
 * [Litemint.com](https://litemint.com/) - Built on Stellar, Litemint is a crypto wallet loaded with free instant games. Take on the daily live challenges, earn collectibles and rewards straight in your wallet.
 * [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 * [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders.
+* [Crypto Link](https://github.com/launch-pad-investments/crypto-link) - Crypto Link is a multi-functional & multi-guild Discord bot serving as a bridge between the Stellar ecosystem and Discord users. It allows for P2P payments, crowdfunding/project promotions/ico opportunities, deployment of automated merchant services and direct connection with Horizon. 
+
 
 ### Stellar Asset Issuers \(Anchors\)
 
