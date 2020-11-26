@@ -1,6 +1,6 @@
 # ⚒️ Projects Using Stellar
 
-### Stellar-based Projects
+## Stellar-based Projects
 
 * [Stellar.org Project Directory](https://proxy.stellar.org/ecosystem/projects) - Another project directory maintained on Stellar.org
 * [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone with a built in Stellar wallet.
@@ -27,9 +27,9 @@
 * [Litemint.com](https://litemint.com/) - Built on Stellar, Litemint is a crypto wallet loaded with free instant games. Take on the daily live challenges, earn collectibles and rewards straight in your wallet.
 * [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 * [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders.
-* [Crypto Link](https://github.com/launch-pad-investments/crypto-link) - Crypto Link is a multi-functional & multi-guild Discord bot serving as a bridge between the Stellar ecosystem and Discord users. It allows for P2P payments, crowdfunding/project promotions/ico opportunities, deployment of automated merchant services and direct connection with Horizon. 
+* [Crypto Link](https://github.com/launch-pad-investments/crypto-link) - Crypto Link is a multi-functional Discord bot serving as a bridge between the Stellar ecosystem and Discord users. It allows for P2P payments, deployment of automated merchant services and direct connection with Horizon. 
 
-### Stellar Asset Issuers \(Anchors\)
+## Stellar Asset Issuers \(Anchors\)
 
 * [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
 * [Tempo](https://tempo.eu.com/en) - Tempo's EURT is a stable coin, backed by on hand cash, 1 EURT = 1 EUR.
