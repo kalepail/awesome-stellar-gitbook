@@ -27,6 +27,7 @@
 * [Litemint.com](https://litemint.com/) - Built on Stellar, Litemint is a crypto wallet loaded with free instant games. Take on the daily live challenges, earn collectibles and rewards straight in your wallet.
 * [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 * [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders.
+* [Crypto Link](https://github.com/launch-pad-investments/crypto-link) - Crypto Link is a multi-functional & multi-guild Discord bot serving as a bridge between the Stellar ecosystem and Discord users. It allows for P2P payments, crowdfunding/project promotions/ico opportunities, deployment of automated merchant services and direct connection with Horizon. 
 
 ### Stellar Asset Issuers \(Anchors\)
 
