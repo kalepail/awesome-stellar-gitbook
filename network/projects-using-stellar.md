@@ -29,7 +29,6 @@
 * [Saldo.mx](https://smxwallet.com/) - A way for migrant workers to pay family members' bills across borders.
 * [Crypto Link](https://github.com/launch-pad-investments/crypto-link) - Crypto Link is a multi-functional & multi-guild Discord bot serving as a bridge between the Stellar ecosystem and Discord users. It allows for P2P payments, crowdfunding/project promotions/ico opportunities, deployment of automated merchant services and direct connection with Horizon. 
 
-
 ### Stellar Asset Issuers \(Anchors\)
 
 * [AnchorUSD](https://www.anchorusd.com/) - Redeemable and stable cryptocurrency anchored 1-for-1 to the US dollar. All deposits are secured in US-domiciled bank accounts.
