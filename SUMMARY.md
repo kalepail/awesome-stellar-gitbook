@@ -6,6 +6,7 @@
 
 * [🌎 Community Overview](community/community-overview.md)
 * [💰 Stellar Community Fund](community/stellar-community-fund.md)
+* [⌨️ Hackathon Archive](community/hackathon-archive.md)
 * [📚 Community Content](community/community-content.md)
 * [📺 Videos, Podcasts, and AMAs](community/videos-podcasts-and-amas.md)
 
