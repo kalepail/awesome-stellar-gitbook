@@ -15,6 +15,11 @@
 
 ### Podcasts
 
+* [Blockchain Interviews - Justin Rice, Head of Ecosystem of Stellar Development Foundation](https://youtu.be/zqPpgsIhKqI)
+* [Base Layer \#168: Jed McCaleb & Denelle Dixon on Stellar and it's role in the Digital Assets ecosystem](https://open.spotify.com/episode/7MxFzNIMvkyzhfr1iRNfXk?si=ED2KLbLHQACiDF9ofN51uw)
+* [Stellar, Cross-Border Payments, Stablecoins Future, $USD Colonization w/ Justin Rice](https://youtu.be/LUkXl0_q9xk)
+* [Denelle Dixon, CEO & ED Stellar Development Foundation \| Episode 42](https://open.spotify.com/episode/6U3mw59ntr0mhyvmkUiOdy)
+* [Connect the world - How Stellar is connecting the global financial system with Jed McCaleb](https://bravenewcoin.com/insights/connect-the-world-how-stellar-is-connecting-the-global-financial-system)
 * [Money 3.0: Denelle Dixon from the Stellar Development Foundation](https://www.abra.com/blog/money-3-0-denelle-dixon-stellar-development-foundation/)
 * [Thriller Blockchain Week - S2EP 01: Kori and Kyle from Stellar](https://thrillerpodcast.simplecast.com/episodes/thriller-blockchain-week-s2ep-01-kori-a)
 * [Jed McCaleb: Stellar And The Vision Of An Open Financial System](https://youtu.be/dHkrrMg9RUw)
@@ -26,6 +31,8 @@
 
 ### AMAs
 
+* [6 Questions for Justin Rice of Stellar Development Foundation](https://cointelegraph.com/magazine/2020/08/14/6-questions-justin-rice-stellar-development-foundation)
+* [Stellar’s Jed McCaleb: CoinMarketCap Q&A](https://blog.coinmarketcap.com/2020/09/20/stellars-jed-mccaleb-crypto-doesnt-need-more-regulation-it-needs-clarity/)
 * [Stellar Community Podcast - AMA with Kolten & Tyler](https://podcast.stellar.org/episodes/stellar-community-live-february-27th)
 * [Blockchain Week NYC 2019 - Q&A with Jed McCaleb \(Video\)](https://youtu.be/OrpHfZcywJw) 
 * [Blockchain Week NYC 2019 - Q&A with Jed McCaleb \(Transcript\)](https://medium.com/stellar-community/transcript-q-a-with-jed-mccaleb-blockchain-week-nyc-2019-17862ba66a90)
