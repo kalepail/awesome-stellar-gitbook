@@ -10,6 +10,7 @@
 
 ### More case studies and insights: 
 
+* [How Tempo and Cowrie are Building on Stellar](https://stellar-org.webflow.io/case-studies/how-tempo-and-cowrie-are-building-on-stellar)
 * [Why IBM Built World Wire on Stellar](https://youtu.be/GtQY8Jfa4NA)
 * [IBM Blockchain World Wire: How it Works](https://youtu.be/fXgwpfvDm5E)
 * [Central Bank Digital Currencies](http://thinktank.omfif.org/ibm)
