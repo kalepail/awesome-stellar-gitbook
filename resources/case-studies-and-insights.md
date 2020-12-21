@@ -1,5 +1,7 @@
 # 📜 Case Studies & Insights
 
+{% embed url="https://player.vimeo.com/video/478161340" caption="Suren Hayriyan and Gbubemi Agbeyegbe talk about the bi-directional corridor Tempo and Cowrie built together on the Stellar network, powering cross-border payments between Nigeria and Europe." %}
+
 {% embed url="https://youtu.be/aaCc0s1bWAs" caption="Meinhard Benn talks about how SatoshiPay.io is revolutionizing online publishing through micropayments and how the Stellar Network is helping accomplish this goal." %}
 
 {% embed url="https://youtu.be/y9FpIEv-TFw" caption="Marco Neri talks about how Saldo is using Stellar to provide a way for migrant workers to support their families with cross-border payments. " %}
